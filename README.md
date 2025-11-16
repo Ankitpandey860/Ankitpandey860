@@ -1,60 +1,60 @@
 <h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
-<h3 align="center">Frontend Developer | AI & ML Learner | Tech Explorer</h3>
+<h3 align="center">A passionate Frontend Developer & Tech Explorer from India 🇮🇳</h3>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="270px" />
 </div>
 
 ---
 
 # 🧑‍💼 Career Summary
 
-I am a passionate **Frontend Developer** crafting modern web apps with **React, Redux Toolkit, and APIs**.  
-Currently diving deep into **Machine Learning & AI**, merging tech + creativity to build future-ready solutions.
+🚀 I’m a **Frontend Developer** focused on building fast, interactive, and user-centric web applications.  
+💡 I love solving real-world problems through clean UI, efficient logic, and seamless APIs.  
+🔥 Currently upskilling in **React, Redux Toolkit, APIs, Machine Learning fundamentals**  
+🎯 Future Goal: Become a **Full-Stack + ML Engineer**
 
-- 🌱 Learning **Machine Learning, Python, React Ecosystem**
-- 🔥 Building real-world apps: Crypto News App, Web Automation Scripts
-- 🎯 Goal: Become a **Full Stack + ML Engineer**
-- ⚡ “I debug for fun & break things to FIX things 😎”
-
----
-
-# 🛠 Tech Skills
-
-### 🚀 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cpp,java,python,git,github,vite,linux" />
-</p>
-
-### 🔮 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,redux" />
-</p>
+- 🌱 Learning: Redux Toolkit, API Integration, ML Basics  
+- 💻 Working on: Crypto Dashboard App, DSA in C++/Java  
+- ⚡ Fun Fact: I debug more than I code — but that’s where the real learning happens 😎
 
 ---
 
-# 📊 GitHub Stats (Animated)
+# 🛠️ Skills
+
+### **💻 Languages & Tools I Use**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cpp,java,git,github,vscode" />
+</p>
+
+### **🔮 Currently Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tensorflow" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankitpandey860&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Ankitpandey860&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankitpandey860&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitpandey860&theme=tokyonight" />
 </div>
 
 ---
 
-# 🔥 Most Used Languages
+# 🚀 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpandey860&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpandey860&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 # 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitpandey860&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitpandey860&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
 </div>
 
 ---
@@ -66,9 +66,9 @@ Currently diving deep into **Machine Learning & AI**, merging tech + creativity 
 
 ---
 
-# 📈 Contribution Activity Graph  
+# 🔥 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitpandey860&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitpandey860&theme=tokyo-night" />
 </div>
 
 ---
@@ -78,18 +78,25 @@ Currently diving deep into **Machine Learning & AI**, merging tech + creativity 
 <a href="https://github.com/Ankitpandey860"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 <a href="https://www.linkedin.com/in/ankit-pandey-860"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
 </p>
 
 ---
 
 # ⚡ Fun Animated Widgets
-
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api" width="400px" />
-  <br/><br/>
+  <img src="https://readme-jokes.vercel.app/api" width="400"/>
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitpandey860&theme=tokyonight" />
 </div>
+
+---
+
+# 🚀 Quote for Today
+> “Code is like humor. When you have to explain it, it's bad.”
+
+---
+
+### ⭐ If you enjoy my work, consider giving my repositories a star!
 
 ---
 
